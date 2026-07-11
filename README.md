@@ -1,6 +1,9 @@
 <h1 align="left">Hi 👋, I'm Mitul Gadhiya</h1>
 <h3 align="left">Aspiring Software Developer</h3>
 
+<br>
+<h2 align="left>👨‍💻 About Me</h2>
+  
 - 🔭 I’m currently working on web development projects using React.js, Node.js, and MongoDB.
 - 🌱 I’m currently learning Data Structures & Algorithms, Backend Development.
 - 👯 I’m looking to collaborate on React.js, Node.js, and open-source web development projects.
@@ -8,7 +11,7 @@
 - ⚡ Fun fact: I like improving a little every day.
 
 <br>
-<h2 align="left">🌐 Connect With Me</h2>
+<h2 align="left">🌐 Let's Connect</h2>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitulgadhiya3706)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
