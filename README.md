@@ -2,7 +2,7 @@
 <h3 align="left">Aspiring Software Developer</h3>
 
 <br>
-<h2 align="left>👨‍💻 About Me</h2>
+<h2 align="left">👨‍💻 About Me</h2>
   
 - 🔭 I’m currently working on web development projects using React.js, Node.js, and MongoDB.
 - 🌱 I’m currently learning Data Structures & Algorithms, Backend Development.
